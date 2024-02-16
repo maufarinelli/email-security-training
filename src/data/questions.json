@@ -1,0 +1,68 @@
+[
+  {
+    "id": "question1",
+    "question": "Question 1: Jane, an HR employee, receives an email from her colleague Michel from the Financial department with the subject: “Urgent request: Payroll information needed”. The email is requesting some payroll information data for audit purposes. However, Jane noticed that the colleague’s email address is slightly misspelled, with one extra letter at company’ name. What should Jane do?",
+    "responses": {
+      "A": "Reply as quickly as possible, because her colleague needs it urgently.",
+      "B": "Call her colleague and talk about the urgent request, to verify if she can reply in 3 days.",
+      "C": "Contact her colleague as well as the security team to request verification of the email.",
+      "D": "Prepare all the request documents."
+    },
+    "rightAnswer": "C",
+    "takeaway": [
+      "Social engineering is the term used in Cybersecurity when malicious actors try to manipulate victims in order to get some data or access to devices/networks.",
+      "They want to trick the victim into doing things they would routinely(click on a provided link, download a file, etc.). Usually these messages come with some sense of urgency or fear, when they know people could react to those emotions and act without thinking.",
+      "Jane should be aware of those tactics and be cautious. The right thing to do is to contact the security team of her company, reporting this phishing email and she could also call her colleague asking about the email content, to confirm that it could be fake."
+    ]
+  },
+  {
+    "id": "question2",
+    "question": "Question 2: Tom, the HR manager, receives an email from his colleague Sarah, the head of the sales department. The subject line reads, \"Urgent: Invoice Payment Required,\" and the email contains an attached document labeled as an invoice for a recent marketing campaign. However, Tom was not expecting to receive any invoices from Sarah and finds the request unusual. What should he do?",
+    "responses": {
+      "A": "Contact Sarah directly through a phone call or instant messaging, to verify the authenticity of the email and the invoice request.",
+      "B": "Open the document as soon as possible to see how much he should pay.",
+      "C": "Contact the sale director of the company, to show him this message.",
+      "D": "Forward this email to his assistant, telling him to take care of that case."
+    },
+    "rightAnswer": "A",
+    "takeaway": [
+      "Malicious attackers usually try to gather information about employees, in order to create this kind of email trying to trick others.",
+      "Encouraging employees to verify the authenticity of email requests through alternate communication channels can help confirm the legitimacy of unexpected emails.",
+      "Tom should be cautious in those situations and contact the sender of the email to check if it was a legitimate message before going further with actions. Also, establishing clear protocols for reporting suspicious emails to the IT security team enables prompt action and reduces the risk of security breaches or data loss."
+    ]
+  },
+  {
+    "id": "question3",
+    "question": "Question 3: Emily, a HR manager, receives an email supposedly from the Vice President of Finances, requesting confidential financial information with a sense of urgency. The email requests sensitive personal data, including social numbers, of some people from his department. What should she do?",
+    "responses": {
+      "A": "Gather all requested information, because a VP request cannot wait.",
+      "B": "Contact a third party security IT company to ask for advice.",
+
+      "C": "Share all excel files she has already done containing employee information.",
+      "D": "Contact the Vice President secretary in order to verify the authenticity of his urgent request."
+    },
+    "rightAnswer": "D",
+    "takeaway": [
+      "Using urgency and higher people’s identity usually can trick employees by fear.",
+      "Imagine if a VP really needs some information and requests it directly to you. Probably you will feel the necessity to urgently reply to his message. Taking time to evaluate these requests are essential to prevent phishing attacks and data breaches.",
+      "Emily should verify the authenticity of this email and contact the IT security department asking for some help on how to proceed."
+    ]
+  },
+  {
+    "id": "question4",
+    "question": "Question 4: Sarah, an HR employee at a medium-sized company, receives an email seemingly from the IT department. The email states that there has been a security breach and advises all employees to reset their passwords immediately to safeguard their accounts. It provides a link for convenience. What should Sarah do?",
+    "responses": {
+      "A": "Click on the link and reset her password immediately.",
+      "B": "Reply the email asking for more information about the company's password policy.",
+
+      "C": "Contact the IT department directly to report this suspicious email immediately.",
+      "D": "Forward this email to her colleagues, in order to spread the news of the security breach in the company."
+    },
+    "rightAnswer": "C",
+    "takeaway": [
+      "Employees should always remain vigilant and question unexpected or unusual requests, especially those related to security measures like password resets.",
+      "Before clicking on any links or providing sensitive information, employees should verify the legitimacy of the sender and the URL to ensure they are not falling victim to a phishing scam.",
+      "Sarah should contact the IT department directly to report this suspicious email immediately, and she should also be aware of the company's password policy, so she could ask for more information about it."
+    ]
+  }
+]

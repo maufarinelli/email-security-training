@@ -1,0 +1,11 @@
+---
+import Base from '../layouts/Base.astro';
+import ContextProvider from '../components/ContextProvider/ContextProvider';
+
+const pageTitle = "Email Awareness Security Training";
+---
+
+<Base>
+	<header><div class="content-wrapper"><h1>{pageTitle}</h1></div></header>
+	<ContextProvider client:load></ContextProvider>
+</Base>
